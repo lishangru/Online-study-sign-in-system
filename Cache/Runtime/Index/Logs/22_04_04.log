@@ -1,0 +1,329 @@
+[ 2022-04-04T02:00:13+08:00 ] 8.210.97.125 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000013s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+
+[ 2022-04-04T02:35:24+08:00 ] 8.218.85.201 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000013s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000099s ]
+
+[ 2022-04-04T11:23:02+08:00 ] 223.96.66.218 /index.php/Index/ke.html?item=1648890864&name=%E6%B5%8B%E8%AF%9501
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000258s ]
+
+[ 2022-04-04T11:23:06+08:00 ] 223.96.66.218 /index.php/Home/Index/index/item/1648890864/name/%E6%B5%8B%E8%AF%9501.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002769s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+
+[ 2022-04-04T11:23:11+08:00 ] 223.96.66.218 /index.php/Home/Index/index/item/1648890864/name/%E6%B5%8B%E8%AF%9501.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000013s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+
+[ 2022-04-04T11:27:22+08:00 ] 223.96.66.218 /index.php/Home/Index/day/item/1648890864.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Undefined index: name /www/wwwroot/nj.imlsr.top/Index/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/wwwroot/nj.imlsr.top/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `item` [ RunTime:0.000438s ]
+SQL: SELECT * FROM `item` WHERE ( `time` = '1648890864' ) LIMIT 1   [ RunTime:0.000164s ]
+NOTIC: [8] Use of undefined constant name - assumed 'name' /www/wwwroot/nj.imlsr.top/Index/Home/Controller/IndexController.class.php 第 128 行.
+SQL: SHOW COLUMNS FROM `people` [ RunTime:0.000287s ]
+SQL: SELECT * FROM `people`  [ RunTime:0.000134s ]
+SQL: SHOW COLUMNS FROM `time` [ RunTime:0.000280s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 1 )  [ RunTime:0.000124s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 2 )  [ RunTime:0.000114s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 3 )  [ RunTime:0.000092s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 4 )  [ RunTime:0.000089s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 5 )  [ RunTime:0.000088s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 6 )  [ RunTime:0.000086s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 7 )  [ RunTime:0.000099s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 8 )  [ RunTime:0.000091s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 9 )  [ RunTime:0.000099s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 10 )  [ RunTime:0.000099s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 11 )  [ RunTime:0.000093s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 12 )  [ RunTime:0.000116s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 13 )  [ RunTime:0.000092s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 14 )  [ RunTime:0.000124s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 15 )  [ RunTime:0.000137s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 16 )  [ RunTime:0.000100s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 17 )  [ RunTime:0.000089s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 18 )  [ RunTime:0.000092s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 19 )  [ RunTime:0.000088s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 20 )  [ RunTime:0.000086s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 21 )  [ RunTime:0.000120s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 22 )  [ RunTime:0.000098s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 23 )  [ RunTime:0.000088s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 24 )  [ RunTime:0.000086s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 25 )  [ RunTime:0.000104s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 26 )  [ RunTime:0.000087s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 27 )  [ RunTime:0.000114s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 28 )  [ RunTime:0.000102s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 29 )  [ RunTime:0.000092s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 30 )  [ RunTime:0.000088s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 31 )  [ RunTime:0.000098s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 32 )  [ RunTime:0.000136s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 33 )  [ RunTime:0.000113s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 34 )  [ RunTime:0.000144s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 35 )  [ RunTime:0.000115s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 36 )  [ RunTime:0.000090s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 37 )  [ RunTime:0.000101s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 38 )  [ RunTime:0.000099s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 39 )  [ RunTime:0.000134s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 40 )  [ RunTime:0.000105s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 41 )  [ RunTime:0.000094s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 42 )  [ RunTime:0.000086s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 43 )  [ RunTime:0.000086s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 44 )  [ RunTime:0.000087s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 45 )  [ RunTime:0.000086s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 46 )  [ RunTime:0.000095s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 47 )  [ RunTime:0.000118s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 48 )  [ RunTime:0.000097s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 49 )  [ RunTime:0.000251s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 50 )  [ RunTime:0.000109s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000242s ]
+
+[ 2022-04-04T11:27:27+08:00 ] 223.96.66.218 /index.php/Index/ke/item/1648890864.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002731s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2022-04-04T11:40:09+08:00 ] 223.96.66.218 /index.php/Home/Index/day/item/1648890864.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: name /www/wwwroot/nj.imlsr.top/Index/Home/Controller/IndexController.class.php 第 122 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/wwwroot/nj.imlsr.top/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `item` [ RunTime:0.000507s ]
+SQL: SELECT * FROM `item` WHERE ( `time` = '1648890864' ) LIMIT 1   [ RunTime:0.000176s ]
+NOTIC: [8] Use of undefined constant name - assumed 'name' /www/wwwroot/nj.imlsr.top/Index/Home/Controller/IndexController.class.php 第 128 行.
+SQL: SHOW COLUMNS FROM `people` [ RunTime:0.000354s ]
+SQL: SELECT * FROM `people`  [ RunTime:0.000179s ]
+SQL: SHOW COLUMNS FROM `time` [ RunTime:0.000346s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 1 )  [ RunTime:0.000144s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 2 )  [ RunTime:0.000124s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 3 )  [ RunTime:0.000132s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 4 )  [ RunTime:0.000123s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 5 )  [ RunTime:0.000125s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 6 )  [ RunTime:0.000121s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 7 )  [ RunTime:0.000139s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 8 )  [ RunTime:0.000122s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 9 )  [ RunTime:0.000131s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 10 )  [ RunTime:0.000127s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 11 )  [ RunTime:0.000122s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 12 )  [ RunTime:0.000243s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 13 )  [ RunTime:0.000107s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 14 )  [ RunTime:0.000170s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 15 )  [ RunTime:0.000117s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 16 )  [ RunTime:0.000103s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 17 )  [ RunTime:0.000117s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 18 )  [ RunTime:0.000102s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 19 )  [ RunTime:0.000102s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 20 )  [ RunTime:0.000100s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 21 )  [ RunTime:0.000101s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 22 )  [ RunTime:0.000121s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 23 )  [ RunTime:0.000114s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 24 )  [ RunTime:0.000101s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 25 )  [ RunTime:0.000100s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 26 )  [ RunTime:0.000102s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 27 )  [ RunTime:0.000108s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 28 )  [ RunTime:0.000101s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 29 )  [ RunTime:0.000115s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 30 )  [ RunTime:0.000100s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 31 )  [ RunTime:0.000106s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 32 )  [ RunTime:0.000105s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 33 )  [ RunTime:0.000104s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 34 )  [ RunTime:0.000103s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 35 )  [ RunTime:0.000120s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 36 )  [ RunTime:0.000108s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 37 )  [ RunTime:0.000106s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 38 )  [ RunTime:0.000110s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 39 )  [ RunTime:0.000103s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 40 )  [ RunTime:0.000103s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 41 )  [ RunTime:0.000106s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 42 )  [ RunTime:0.000117s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 43 )  [ RunTime:0.000125s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 44 )  [ RunTime:0.000177s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 45 )  [ RunTime:0.000098s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 46 )  [ RunTime:0.000096s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 47 )  [ RunTime:0.000098s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 48 )  [ RunTime:0.000107s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 49 )  [ RunTime:0.000104s ]
+SQL: SELECT * FROM `time` WHERE ( `people_id` = 50 )  [ RunTime:0.000093s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000249s ]
+
+[ 2022-04-04T11:40:15+08:00 ] 223.96.66.218 /index.php/Home/Index/index/item/1648890864.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000013s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000034s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+
+[ 2022-04-04T21:11:27+08:00 ] 223.96.66.218 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000013s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000098s ]
+
+[ 2022-04-04T21:11:30+08:00 ] 223.96.66.218 /index.php/Index/additem.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000035s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2022-04-04T21:33:02+08:00 ] 223.96.66.218 /index.php/Index/yzm.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
